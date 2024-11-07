@@ -9,7 +9,7 @@ layout: home
     <img src="/assets/images/GVSU_Logo.png" alt="GVSU Logo" width="auto" height="100" style="margin-bottom: 20px;">
 </div>
 
-# Summer School 2024 on Data Analytics and Artificial Intelligence 
+# Summer School 2025 on Mechatronic 
 
 **Dates:** 30 June - 27 July 2024
 
