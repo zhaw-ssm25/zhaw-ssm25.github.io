@@ -9,9 +9,9 @@ layout: home
     <img src="/assets/images/GVSU_Logo.png" alt="GVSU Logo" width="auto" height="100" style="margin-bottom: 20px;">
 </div>
 
-# Summer School 2025 on Mechatronic 
+# Summer School 2025 on Mechatronics 
 
-**Dates:** 30 June - 27 July 2024
+**Dates:** 10 - -25 August 2025
 
 **Location:** 2 weeks on ZHAW School of Engineering campus, Switzerland (30 June-12 July), <br> 2 weeks on Grand Valley State University campus, USA (15 July – 27 July)
 
