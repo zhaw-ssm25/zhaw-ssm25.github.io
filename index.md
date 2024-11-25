@@ -36,13 +36,13 @@ Completed 2nd year/4th semester (full-time students) and completed 3rd year/6th 
 
 **Registration Deadline:**
 
-31 January 2024
+31 January 2025
 
 **Detailed information and registration for ZHAW students:**
 
 On the Intranet
 
-[Summer School 2024 information and registration](http://bit.ly/SoE_summer_school_2024)
+[Summer School 2025 information and registration](https://intra.zhaw.ch/departemente/school-of-engineering/international/summer-schools)
 
 Have a look at the [Informationsheet](assets/images/Infosheet_GVSU_Summer_School_2024_.pdf)
 
