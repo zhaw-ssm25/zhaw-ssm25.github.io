@@ -15,7 +15,7 @@ layout: home
 
 **Location:** 2 weeks on campus of the University of Minnesota Twin Cities
 
-**Collaboration:** [ZHAW School of Engineering](https://www.zhaw.ch/en/engineering/) and [Grand Valley State University (GVSU)](https://www.gvsu.edu/engineering/)
+**Collaboration:** [ZHAW School of Engineering](https://www.zhaw.ch/en/engineering/) and [University of Minnesota](https://twin-cities.umn.edu/)
 
 **Eligible Study Programmes at ZHAW School of Engineering:**
 
