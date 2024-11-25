@@ -21,11 +21,10 @@ layout: home
 
 Full-time and part-time students are eligible to participate
 
-- Computer Science (IT)
-- Data Science (DS)
+- Mechanical Engineering (MT)
 - Electrical Engineering (ET)
 - Systems Engineering (ST)
-- Engineering and Management (WI)
+- Aviation (AV)
 
 **Eligible Term Level:**
 
