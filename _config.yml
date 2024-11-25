@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data Science Summer School 2024
+title: Summer School 2025 on Mechanisms in Mechatronics
 author:
   email: exchange.engineering@zhaw.ch
 description: A collaboration between the ZHAW School of Engineering and the Grand Valley State University GVSU, USA
