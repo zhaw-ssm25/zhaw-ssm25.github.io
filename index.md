@@ -46,5 +46,4 @@ On the Intranet
 
 Have a look at the [Informationsheet](assets/images/Infosheet_GVSU_Summer_School_2024_.pdf)
 
-![Impression1](/assets/images/img1.png)
-![Impression2](/assets/images/img2.png)
+![Impression1](/assets/images/UMinnesota_1.png)
