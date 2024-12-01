@@ -13,7 +13,7 @@ permalink: /team/
 
 Head International Relations, ZHAW School of Engineering
 
-**Coordinator logistics and excursions in Switzerland**
+**Coordinator logistics and administration**
 
 ![Martina Ruf](/assets/images/martina.webp){: width="150" }  
 [**Martina Ruf**](https://www.zhaw.ch/en/ueber-uns/person/eglm)
