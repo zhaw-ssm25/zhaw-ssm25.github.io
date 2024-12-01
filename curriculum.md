@@ -23,7 +23,7 @@ Learning outcomes of the summer school are:
 
 The University of Minnesota has a particular expertise in this field and one of the world leading scientists, [**Prof. Arthur Erdman**](https://cse.umn.edu/me/arthur-erdman), still teaches at UMinnesota and might contribute to the programme.
 
-The detailed programme will be developed after sufficient students have registered and the summer school can be conducted. 
+The detailed programme will be developed after sufficient students have registered and the summer school can definitely be conducted. 
 
 An outline of the programme structure can be found in [this ppt presentation](assets/images/Presentation_Mechanisms_Mechatronics.pdf), put together by Prof. Julianna Abel. 
 
