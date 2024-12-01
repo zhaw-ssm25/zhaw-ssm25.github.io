@@ -46,6 +46,6 @@ On the Intranet
 
 [Summer School 2025 information and registration](https://intra.zhaw.ch/departemente/school-of-engineering/international/summer-schools)
 
-Have a look at the [Informationsheet](assets/images/Infosheet_GVSU_Summer_School_2024_.pdf)
+Have a look at the [Informationsheet](assets/images/Infosheet_UoM Summer School_2025.pdf)
 
 ![Impression1](/assets/images/UMinnesota_1.png)
