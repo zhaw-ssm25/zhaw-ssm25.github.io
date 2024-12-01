@@ -24,7 +24,7 @@ The University of Minnesota has a particular expertise in this field and one of 
 
 The detailed programme will be developed after sufficient students have registered and the summer school can be conducted. 
 
-An outline of the programme structure can be found in [this ppt presentation](assets/images/2025-Mechanisms in Mechatronics.pdf), put together by Prof. Julianna Abel. 
+An outline of the programme structure can be found in [this ppt presentation](assets/images/Presentation_Mechanisms_Mechatronics.pdf), put together by Prof. Julianna Abel. 
 
 
 
