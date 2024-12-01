@@ -20,10 +20,10 @@ Head International Relations, ZHAW School of Engineering
 
 Summer Schools Coordinator, International Office, ZHAW School of Engineering
 
-**Overall Coordinator GVSU**
+**Overall Coordinator University of Minnesota**
 
-![Prof. Paul Leidig](/assets/images/paul.jpg){: width="150" }  
-[**Prof. Paul Leidig**](https://www.gvsu.edu/computing/leidig-paul-50.htm)
+![Adam Pagel, Director of International Programs](/assets/images/paul.jpg){: width="150" }  
+[**Adam Pagel**](https://cse.umn.edu/college/administrative-offices/collegiate-life-office))
 
 Director and lecturer Computer Science Department, GVSU
 
