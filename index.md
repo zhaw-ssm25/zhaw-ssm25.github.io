@@ -30,9 +30,9 @@ Full-time and part-time students are eligible to participate
 
 **Eligible Term Level:**
 
-Completed 2nd year/4th semester (full-time students) and completed 3rd year/6th semester (part-time students)
+As of completed 1st year/2nd semester (full-time students) and completed 2nd year/4th semester (part-time students)
 
-**ECTS credits:** 4 ECTS will be awarded for the summer school.
+**ECTS credits:** 4 ECTS will be awarded for the summer school into the elective modules group (WPFM) of semester 5th (full-time studies), or 7th semester (part-time studies).
 
 **Costs:** 2'700 - 3'200 CHF (depends on the number of participants and includes fee, boarding and flight costs)
 
