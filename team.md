@@ -29,7 +29,7 @@ Summer Schools Coordinator, International Office, ZHAW School of Engineering
 
 # Teaching
 
-**Lecturer University of Minnesota”**
+**Lecturer University of Minnesota**
 
 ![Prof. Julianna Abel](/assets/images/Abel_Julianna.jpg){: width="150" }  
 [**Julianna Abel**](https://cse.umn.edu/me/julianna-abel)
