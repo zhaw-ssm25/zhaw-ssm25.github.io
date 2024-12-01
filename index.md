@@ -21,10 +21,12 @@ layout: home
 
 Full-time and part-time students are eligible to participate
 
-- Mechanical Engineering (MT)
-- Electrical Engineering (ET)
-- Systems Engineering (ST)
 - Aviation (AV)
+- Electrical Engineering (ET)
+- Mobility Science (MO), under approval of study director Prof. Thomas Sauter-Servaes
+- Mechanical Engineering (MT)
+- Systems Engineering (ST)
+- Engineering and Management (WI)
 
 **Eligible Term Level:**
 
