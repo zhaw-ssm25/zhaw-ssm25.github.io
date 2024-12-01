@@ -27,20 +27,12 @@ Summer Schools Coordinator, International Office, ZHAW School of Engineering
 
  Director of International Programs
 
-**Coordinator GVSU**
-
-![Prof. Ira Woodring](/assets/images/ira.jpg){: width="150" }  
-[**Prof. Ira Woodring**](https://www.gvsu.edu/computing/woodring-ira-71.htm)
-
-Lecturer Computer Science Department, GVSU
-
-
 # Teaching
 
-**Lecturer of week 1 at ZHAW SoE on “Data engineering”**
+**Lecturer Univesity of Minnesota”**
 
-![Dr. Jonathan Fürst](/assets/images/jonathan.jpg){: width="150" }  
-[**Dr. Jonathan Fürst**](https://www.zhaw.ch/en/about-us/person/fues/)
+![Prof. Julianna Abel](/assets/images/jonathan.jpg){: width="150" }  
+[**Julianna Abel**](https://cse.umn.edu/me/julianna-abel)
 
 Senior Lecturer at the Institute of Applied Information Technology
 
