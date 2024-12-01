@@ -14,7 +14,7 @@ English Level B2 is compulsory.
 The topic of the summer school is **Mechanisms in mechatronics**.
 
 Mechanisms are mechanical devices that transfer force and motion from a source to an output. The summer school will cover these concepts in its application to mechatronics systems.
-Learning Outcome of the summer school:
+Learning outcomes of the summer school are:
 
 - Kinematic analysis and synthesis theory in a design context,
 - Apply graphical and analytical methods to analyze and design mechanisms tocreate arbitrary motion,
