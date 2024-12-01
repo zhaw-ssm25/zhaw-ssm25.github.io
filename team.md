@@ -22,10 +22,10 @@ Summer Schools Coordinator, International Office, ZHAW School of Engineering
 
 **Overall Coordinator University of Minnesota**
 
-![Adam Pagel, Director of International Programs](/assets/images/ADAM_PAGEL.png){: width="150" }  
+![Adam Pagel](/assets/images/ADAM_PAGEL.png){: width="150" }  
 [**Adam Pagel**](https://cse.umn.edu/college/administrative-offices/collegiate-life-office))
 
-Director and lecturer Computer Science Department, GVSU
+ Director of International Programs
 
 **Coordinator GVSU**
 
