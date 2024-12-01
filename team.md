@@ -41,4 +41,4 @@ Associate Professor, Mechanical Engineering, Director of Design of Active Materi
 ![Michael Wüthrich](/assets/images/Michael.jpg){: width="150" }  
 [**Michael Wüthrich**](https://www.zhaw.ch/en/about-us/person/wuem/)
 
-Group leader System Engineering and lecturer 
+Senior Lecturer, Head of Systems and Biomedical Engineering Research
