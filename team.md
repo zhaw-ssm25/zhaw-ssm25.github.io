@@ -38,10 +38,10 @@ Associate Professor, Mechanical Engineering, Director of Design of Active Materi
 
 **Lecturer ZHAW SoE**
 
-![Michael Wüthrich](/assets/images/andreas.jpg){: width="150" }  
-[**Michael Wüthrich**](https://www.zhaw.ch/en/about-us/person/wele/)
+![Michael Wüthrich](/assets/images/Michael.jpg){: width="150" }  
+[**Michael Wüthrich**](https://www.zhaw.ch/en/about-us/person/wuem/)
 
-Senior Lecturer at the Institute of Applied Information Technology
+Group leader System Engineering and lecturer 
 
 
 **Lecturer of week 2 at ZHAW SoE on "Machine Learning"**
