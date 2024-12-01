@@ -29,17 +29,17 @@ Summer Schools Coordinator, International Office, ZHAW School of Engineering
 
 # Teaching
 
-**Lecturer Univesity of Minnesota”**
+**Lecturer University of Minnesota”**
 
 ![Prof. Julianna Abel](/assets/images/Abel_Julianna.jpg){: width="150" }  
 [**Julianna Abel**](https://cse.umn.edu/me/julianna-abel)
 
 Associate Professor, Mechanical Engineering, Director of Design of Active Materials and Structures Lab
 
-**Lecturer of week 2 at ZHAW SoE on "Machine Learning"**
+**Lecturer ZHAW SoE**
 
-![Dr. Andreas Weiler](/assets/images/andreas.jpg){: width="150" }  
-[**Dr. Andreas Weiler**](https://www.zhaw.ch/en/about-us/person/wele/)
+![Michael Wüthrich](/assets/images/andreas.jpg){: width="150" }  
+[**Michael Wüthrich**](https://www.zhaw.ch/en/about-us/person/wele/)
 
 Senior Lecturer at the Institute of Applied Information Technology
 
