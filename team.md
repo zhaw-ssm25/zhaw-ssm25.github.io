@@ -31,11 +31,10 @@ Summer Schools Coordinator, International Office, ZHAW School of Engineering
 
 **Lecturer Univesity of Minnesota”**
 
-![Prof. Julianna Abel](/assets/images/jonathan.jpg){: width="150" }  
+![Prof. Julianna Abel](/assets/images/Abel_Julianna.jpg){: width="150" }  
 [**Julianna Abel**](https://cse.umn.edu/me/julianna-abel)
 
-Senior Lecturer at the Institute of Applied Information Technology
-
+Associate Professor, Mechanical Engineering, Director of Design of Active Materials and Structures Lab
 
 **Lecturer of week 2 at ZHAW SoE on "Machine Learning"**
 
