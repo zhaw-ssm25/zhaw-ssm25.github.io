@@ -8,12 +8,15 @@ permalink: /faq/
 # Logistical Questions
 *Where will the students be staying?*
 
-In Switzerland, the GVSU students will stay at the [Hostel Depot 195](https://depot195.ch/en/home-en/) in Winterthur, a 10 minutes walk from the ZHAW SoE campus.
-In the USA, the ZHAW students will be staying on campus at the Grand Valley State University (Campus Allendale), see [here](https://grandvalleystate.university-tour.com/virtual-tour/main-campus#Murray%20and%20Van%20Steeland%20Apartments) and [here](https://www.gvsu.edu/housing/).
+The students will be staying at a hotel on campus of the [University of Minnesota, Twin City](https://twin-cities.umn.edu/about-us). The campus facilities are closed during the time period of the summer school in August and therefore, student dorms cannot be used. Once the exact hotel is identified, it will be updated on this webpage.
+
+*Where will we get our meals*
+
+As the campus facilities are closed, students need to buy their own food in shops and restaurants nearby. Most probably, the lunch will be provided during lunch breaks, but breakfasts and dinner need be bought individually.
 
 *How is the flight booking handled?*
 
-ZHAW students need to book and pay the return flight to Chicago by themselves. They are also responsible for arranging the transfer from Chicago to Allendale. Please wait for flight bookings until the organizers have confirmed the conduction of summer school 2024, which will be communicated in February 2024.
+ZHAW students need to book and pay the return flight to Minneapolis, Minnesota by themselves. Please wait for flight bookings until the organizers have confirmed the conduction of summer school 2025, which will be communicated in February 2025.
 
 *How can I reach Allendale from Chicago?*
 
