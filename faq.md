@@ -10,7 +10,7 @@ permalink: /faq/
 
 The students will be staying at a hotel on campus of the [University of Minnesota, Twin City](https://twin-cities.umn.edu/about-us). The campus facilities are closed during the time period of the summer school in August and therefore, student dorms cannot be used. Once the exact hotel is identified, it will be updated on this webpage.
 
-*Where will we get our meals*
+*Where will the students get their meals*
 
 As the campus facilities are closed, students need to buy their own food in shops and restaurants nearby. Most probably, the lunch will be provided during lunch breaks, but breakfasts and dinner need be bought individually.
 
@@ -18,18 +18,9 @@ As the campus facilities are closed, students need to buy their own food in shop
 
 ZHAW students need to book and pay the return flight to Minneapolis, Minnesota by themselves. Please wait for flight bookings until the organizers have confirmed the conduction of summer school 2025, which will be communicated in February 2025.
 
-*How can I reach Allendale from Chicago?*
-
-The easiest and most convenient way is to rent and share a care with other students. The car ride from Chicago to Allendale will take you around 3 hrs. There is also a train connection which lasts for around 4 hrs. However, there are only few trains per day running. And finally, there is also the  Greyhound coach connecting the two cities, which will take you around 4 hrs.  
-The Swiss driving license is valid in the USA. However, you need to be at least 25 years old to be entitled to rent a car.
-
 *Do I need to travel back to Switzerland straight after the summer school, or is there an option to extend the stay in the USA and travel back later?*
 
 Yes, you can extend your stay and continue with your vacation or other travels, back-to-back to the summer school.
-
-*Is there a pre-meeting for the participating students?*
-
-For the ZHAW students, there will be a remote meeting in March. Final questions can be clarified and the students can get to know each other during this meeting.
 
 *Is it compulsory to participate in the weekend activities/excursions?*
 
