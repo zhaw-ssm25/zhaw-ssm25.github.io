@@ -30,13 +30,18 @@ Do you have additional questions to be clarified, which are not covered here? Do
 
 # Content Questions
 
-*Do I need to prepare content-wise for the summer school?*
+*Do I need to pass the assessement exams in order to participate in the summer school?*
 
-Yes, there will be preparatory material distributed for the Machine Learning part which you are expected to study beforehand. Further pre-requisites are listed on the curriculum sub-page.
+Yes, this is a prerequisite. If you are a student in its 1st academic year (full time) or second academic year (part time), you might need to book your flight with a decent cancellation policy. Students not having passed the assessement exams are not allowed to participate.
+
+*For which module groups can the 4 ETCS credits be counted?*
+
+The credits can be booked into the elective modules group (Wahlplicht Module) of semester 5th (full-time studies), or 7 th semester (part-time studies). You will receive a particiaption confirmation afther teh summer school, which will bes sent to the study administration. They make sure teh 4 ECTS credits will be booked into the correct module group. 
+It will be communicated later to which module group exactely teh 4 ETCS can be booked.
+
 
 *If I had already topics covered by the summer school curriculum during my previous studies; is it still worthwhile to participate*?
 
-Yes, it is. The curriculum is set-up in way that you will work in teams to tackle a challenge and solve a concrete problem. The challenges/problems stem from the institutes and are real research-based challenges to solve. You will apply your knowledge and expertise, gained during the summer school and beforehand, to solve these challenges in intercultural and interdisciplinary teams.
+Yes, it is. The curriculum is set-up in way that you will work in teams to tackle a challenge and solve a concrete problem.
 
-Do you have additional questions to be clarified, which are not covered here? Do not hesitate to reach out to Dr. Manuel Dömer at [manuel.doemer@zhaw.ch](manuel.doemer@zhaw.ch).
-
+Do you have additional questions to be clarified, which are not covered here? Do not hesitate to reach out to Michael Wüthrich at [michael.wüthrich@zhaw.ch](manuel.doemer@zhaw.ch).
