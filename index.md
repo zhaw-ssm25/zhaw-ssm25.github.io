@@ -13,7 +13,7 @@ layout: home
 
 **Dates:** 11 - 25 August 2025
 
-**Location:** 2 weeks on campus of the University of Minnesota Twin Cities
+**Location:** 2 weeks on campus of the University of Minnesota Twin Cities, Minneapolis, Minnesota
 
 **Collaboration:** [ZHAW School of Engineering](https://www.zhaw.ch/en/engineering/) and [University of Minnesota](https://twin-cities.umn.edu/)
 
