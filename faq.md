@@ -30,14 +30,14 @@ Do you have additional questions to be clarified, which are not covered here? Do
 
 # Content Questions
 
-*Do I need to pass the assessement exams in order to participate in the summer school?*
+*Do I need to pass the assessment exams in order to participate in the summer school?*
 
-Yes, this is a prerequisite. If you are a student in its first academic year (full time) or second academic year (part time), you might need to book your flight with a decent cancellation policy. Students not having passed the assessement exams are not allowed to participate.
+Yes, this is a prerequisite. If you are a student in its first academic year (full time) or second academic year (part time), you might need to book your flight with a decent cancellation policy. Students not having passed the assessment exams are not allowed to participate.
 
 *For which module groups can the 4 ETCS credits be counted?*
 
-The credits can be booked into the elective modules group (Wahlplicht Module) of semester 5th (full-time studies), or 7th semester (part-time studies). You will receive a particiaption confirmation afther the summer school, which will be sent to the study administration. They make sure the 4 ECTS credits will be booked into the correct module group. 
-It will be communicated later to which module group exactely the 4 ETCS credits can be booked.
+The credits can be booked into the elective modules group (Wahlplicht Module) of semester 5th (full-time studies), or 7th semester (part-time studies). You will receive a participation confirmation after the summer school, which will be sent to the study administration. They make sure the 4 ECTS credits will be booked into the correct module group. 
+It will be communicated later to which module group exactly the 4 ETCS credits can be booked.
 
 *If I had already topics covered by the summer school curriculum during my previous studies; is it still worthwhile to participate*?
 
