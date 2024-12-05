@@ -42,10 +42,9 @@ As of completed 1st year/2nd semester (full-time students) and completed 2nd yea
 
 **Detailed information and registration for ZHAW students:**
 
-On the Intranet
-
-[Summer School 2025 information and registration](https://intra.zhaw.ch/departemente/school-of-engineering/international/summer-schools)
+On the Intranet [Summer School 2025 information and registration](https://intra.zhaw.ch/departemente/school-of-engineering/international/summer-schools)
 
 Have a look at the [Informationsheet](assets/images/Infosheet_UoM_Summer_School_2025.pdf)
 
+Blog from the 2024 edition: UMinnesota students at the summer shool at ZHAW School of Engineering. [Blog](http://globalblogs.cse.umn.edu/search/label/Switzerland%202024)
 ![Impression1](/assets/images/UMinnesota_1.png)
